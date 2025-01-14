@@ -1,0 +1,46 @@
+## List of Issues
+
+1. **Add a Dark Mode Toggle**
+   - Add a toggle button to switch between light and dark modes.
+
+2. **Add Smooth Scroll to Top Button**
+   - Add a "Scroll to Top" button that appears when the user scrolls down the page.
+
+3. **Add Hover Effects to Service Cards**
+   - Enhance the hover effects on the service cards to make them more interactive.
+
+4. **Add Form Validation to the Contact Form**
+   - Add validation to the contact form to ensure all fields are filled out correctly.
+
+5. **Add a Loading Spinner on Form Submission**
+   - When the user submits the contact form, display a loading spinner to indicate that the form is being processed.
+
+6. **Add a "Read More" Section in the About Section**
+   - Add a "Read More" button in the About section that expands to show additional content.
+
+7. **Add a Testimonials Section**
+   - Add a new section for testimonials with a carousel slider.
+
+8. **Add Social Media Icons in the Footer**
+   - Add social media icons (e.g., Facebook, Twitter, Instagram) in the footer with links to your profiles.
+
+9. **Add a "Back to Top" Link in the Footer**
+   - Add a "Back to Top" link in the footer that smoothly scrolls the page to the top.
+
+10. **Add a "Services" Page**
+    - Create a new page for the "Services" section with more detailed information about each service.
+
+11. **Add a "Team" Section**
+    - Add a new section to showcase the team members with their photos and roles.
+
+12. **Add a "Blog" Section**
+    - Add a new section for blog posts with a grid layout.
+
+13. **Add a "FAQ" Section**
+    - Add a new section for frequently asked questions with collapsible answers.
+
+14. **Add a "Portfolio" Section**
+    - Add a new section to showcase your portfolio with a grid layout.
+
+15. **Add a "Pricing" Section**
+    - Add a new section for pricing plans with a comparison table.

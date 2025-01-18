@@ -14,18 +14,25 @@ A modern and sleek website designed using the **Glassmorphism** effect. This pro
       `git clone https://github.com/your-username/Glassmorphism.git`
    
 
-4. ### Navigate to the Project Directory:
+3. ### Navigate to the Project Directory:
 
        cd Glassmorphism
 
-5. ### Open Live Server:
+4. ### Create a new branch
+
+        git branch issue/issuename
+
+5. ### Switch to new branch
+        git checkout branchname
+
+6. ### Open Live Server:
 
    
 
-6. ### Your Application will be started
+7. ### Your Application will be started
 
 
-7. ### Start Contributing:
+8. ### Start Contributing:
 
  - Check out the [CONTRIBUTING.md](https://github.com/programming-club-knit/Glassmorphism/blob/main/CONTRIBUTING.md)
 

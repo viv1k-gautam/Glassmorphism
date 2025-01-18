@@ -6,6 +6,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
+ 
 }
 
 /* Header */
@@ -226,4 +227,15 @@ footer {
   .card {
     width: 100%;
   }
+}
+button{
+  font-size: 1.2rem;
+  display: flex;
+  cursor: pointer;
+  border-radius: 10px;
+ 
+}
+
+.dark-mode{
+  background: black;
 }

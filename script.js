@@ -7,3 +7,9 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         });
     });
 });
+ function colour(){
+    let btn= document.body;
+    btn.classList.toggle("dark-mode");
+    
+ }
+
